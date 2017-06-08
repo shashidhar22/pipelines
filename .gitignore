@@ -1,0 +1,6 @@
+#Ignore fastq folder
+fq
+#Ignore local folder
+local
+#Ignore ref folder
+ref
